@@ -1,0 +1,11 @@
+D:\Selenium\RegexPractice\bin\Debug\RegexPractice.exe.config
+D:\Selenium\RegexPractice\bin\Debug\RegexPractice.exe
+D:\Selenium\RegexPractice\bin\Debug\RegexPractice.pdb
+D:\Selenium\RegexPractice\bin\Debug\HtmlAgilityPack.dll
+D:\Selenium\RegexPractice\bin\Debug\HtmlAgilityPack.pdb
+D:\Selenium\RegexPractice\bin\Debug\HtmlAgilityPack.xml
+D:\Selenium\RegexPractice\obj\Debug\RegexPractice.csproj.AssemblyReference.cache
+D:\Selenium\RegexPractice\obj\Debug\RegexPractice.csproj.CoreCompileInputs.cache
+D:\Selenium\RegexPractice\obj\Debug\RegexPractice.csproj.CopyComplete
+D:\Selenium\RegexPractice\obj\Debug\RegexPractice.exe
+D:\Selenium\RegexPractice\obj\Debug\RegexPractice.pdb

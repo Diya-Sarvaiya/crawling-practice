@@ -1,0 +1,11 @@
+D:\Selenium\CrawlingTask2\bin\Debug\CrawlingTask2.exe.config
+D:\Selenium\CrawlingTask2\bin\Debug\CrawlingTask2.exe
+D:\Selenium\CrawlingTask2\bin\Debug\CrawlingTask2.pdb
+D:\Selenium\CrawlingTask2\bin\Debug\HtmlAgilityPack.dll
+D:\Selenium\CrawlingTask2\bin\Debug\HtmlAgilityPack.pdb
+D:\Selenium\CrawlingTask2\bin\Debug\HtmlAgilityPack.xml
+D:\Selenium\CrawlingTask2\obj\Debug\CrawlingTask2.csproj.CoreCompileInputs.cache
+D:\Selenium\CrawlingTask2\obj\Debug\CrawlingTask2.csproj.CopyComplete
+D:\Selenium\CrawlingTask2\obj\Debug\CrawlingTask2.exe
+D:\Selenium\CrawlingTask2\obj\Debug\CrawlingTask2.pdb
+D:\Selenium\CrawlingTask2\obj\Debug\CrawlingTask2.csproj.AssemblyReference.cache
